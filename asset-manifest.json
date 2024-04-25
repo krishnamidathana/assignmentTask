@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/assignmentTask/static/css/main.4df06044.css",
+    "main.js": "/assignmentTask/static/js/main.e46cf0e6.js",
+    "static/media/profile_picture.svg": "/assignmentTask/static/media/profile_picture.112912eecc5370d78605e19b5abcb1a4.svg",
+    "static/media/design.svg": "/assignmentTask/static/media/design.51ba4a17a0cf0439653450fa0ccca86d.svg",
+    "static/media/user_pic.svg": "/assignmentTask/static/media/user_pic.b509a412427a9a95822af95ced3e12db.svg",
+    "static/media/dr.png": "/assignmentTask/static/media/dr.c0c3a664f67f4b5817f9.png",
+    "static/media/women_health.svg": "/assignmentTask/static/media/women_health.79ca6a6134b1547d740dbc224effdfdb.svg",
+    "static/media/skin_care.svg": "/assignmentTask/static/media/skin_care.4c97b21134c6b828317adfcda0e04711.svg",
+    "static/media/immune.svg": "/assignmentTask/static/media/immune.d49ebb949c9eba050c76dd6614bfed8c.svg",
+    "static/media/hair_care.svg": "/assignmentTask/static/media/hair_care.d321874f1570b57c07d796d8eb1d7f63.svg",
+    "static/media/logo.svg": "/assignmentTask/static/media/logo.d1a4134453052fe75bbb0ebbabf2416d.svg",
+    "static/media/home_icon.svg": "/assignmentTask/static/media/home_icon.fe65a41160a25ec7b313a9d2c76fd931.svg",
+    "static/media/left.svg": "/assignmentTask/static/media/left.4c2ac001b1a55569fee8e56039b757ea.svg",
+    "static/media/right.svg": "/assignmentTask/static/media/right.ce6b2af167176b4925ea0f2b250155cb.svg",
+    "static/media/youtube.svg": "/assignmentTask/static/media/youtube.1cbc7c74afcf3703d218b0a9b2990b07.svg",
+    "static/media/insta.svg": "/assignmentTask/static/media/insta.9d085d833605c277e30733ca06e4f0f1.svg",
+    "static/media/calender.svg": "/assignmentTask/static/media/calender.b27445e70c36ebcb579e9931fa2ab507.svg",
+    "static/media/twitter.svg": "/assignmentTask/static/media/twitter.4aa6fff2c2047867e51a5208ec7c0671.svg",
+    "static/media/star.svg": "/assignmentTask/static/media/star.ee7d09f17f5134924119dc32a059a4b5.svg",
+    "index.html": "/assignmentTask/index.html",
+    "static/media/facebook.svg": "/assignmentTask/static/media/facebook.2aa76dae6fbad423e4de7838d40055bc.svg",
+    "static/media/blue_tick.svg": "/assignmentTask/static/media/blue_tick.35511fa566fdb4e3d14f55790abf52f2.svg",
+    "static/media/green_tick.svg": "/assignmentTask/static/media/green_tick.ad953f96cbbc40cfd2dbebf1b3f88fea.svg",
+    "main.4df06044.css.map": "/assignmentTask/static/css/main.4df06044.css.map",
+    "main.e46cf0e6.js.map": "/assignmentTask/static/js/main.e46cf0e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df06044.css",
+    "static/js/main.e46cf0e6.js"
+  ]
+}
