@@ -1,0 +1,24 @@
+
+  
+
+  .star-image {
+    transition: transform 0.5s ease;
+  }
+  
+  .star-image.scale-up {
+    transform: scale(1.5);
+  }
+  
+
+
+  @keyframes scaleUp {
+    from {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+
+    
+  }
+  
